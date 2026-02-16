@@ -3,8 +3,7 @@ import React from 'react';
 const Auth = () => {
   return (
     <div>
-      Authentification
-    </div>
+      Authentication    </div>
   );
 }
 
